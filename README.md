@@ -1,0 +1,2 @@
+# Playlist
+This project tested the ability to create arrays of song IDs, song titles, artists, and song lengths (in seconds). It then tested the ability to manipulate these arrays, as if you were a user, by means of simple commands that are shown in a menu.
